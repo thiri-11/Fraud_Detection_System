@@ -8,6 +8,7 @@ setuptools==69.0.3
 # ─── Dashboard ───
 streamlit==1.31.0
 plotly==5.18.0
+streamlit-autorefresh==1.0.1
 
 # ─── Data Processing ───
 pandas==2.1.4
